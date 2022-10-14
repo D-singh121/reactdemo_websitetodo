@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactdemo_websitetodo/static/css/main.fe24ec02.css",
+    "main.js": "/reactdemo_websitetodo/static/js/main.da6f7834.js",
+    "index.html": "/reactdemo_websitetodo/index.html",
+    "main.fe24ec02.css.map": "/reactdemo_websitetodo/static/css/main.fe24ec02.css.map",
+    "main.da6f7834.js.map": "/reactdemo_websitetodo/static/js/main.da6f7834.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe24ec02.css",
+    "static/js/main.da6f7834.js"
+  ]
+}
